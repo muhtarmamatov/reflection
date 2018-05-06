@@ -17,12 +17,13 @@ By using git add command you can add to your repository this two files with one 
 
 It offers functionality to full control your project in any stage of changing. 
 
-How can you use the staging area to make sure you have one commit per logical
+5. How can you use the staging area to make sure you have one commit per logical
 change?
 By using command git diff --staged i could know what i did and what changes i made sience last time when i added my changes to staging area. 
 
-What are some situations when branches would be helpful in keeping your history
+6. What are some situations when branches would be helpful in keeping your history
 organized? 
+As Coroline said before you may add new expermental functions to your project. Which you are not sure does it work properly. In this case you can split your project branch to something called expermental. And any changes that you made in expermatal branch does not affect you main branch. 
 How would branches help?
 
 How do the diagrams help you visualize the branch structure?
