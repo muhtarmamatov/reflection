@@ -26,7 +26,9 @@ organized?
 As Coroline said before you may add new expermental functions to your project. Which you are not sure does it work properly. In this case you can split your project branch to something called expermental. And any changes that you made in expermatal branch does not affect you main branch. 
 How would branches help?
 
-How do the diagrams help you visualize the branch structure?
+7.How do the diagrams help you visualize the branch structure?
+
+Diagrms helps to users where started a new branch with it's commits and when they are merged with master branch. 
 
 
 What is the result of merging two branches together?
