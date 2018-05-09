@@ -27,14 +27,11 @@ As Coroline said before you may add new expermental functions to your project. W
 How would branches help?
 
 7.How do the diagrams help you visualize the branch structure?
-
 Diagrms helps to users where started a new branch with it's commits and when they are merged with master branch. 
 
 
-What is the result of merging two branches together?
- Why do we represent it in
-the diagram the way we do?
-
+8. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+When you merge two branches all the changes made by both branches will be merged and commits that you did they will be reachable from master brach. We need diagram to know where does started new branch and it's parrent branch and sience than we created new branch.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
